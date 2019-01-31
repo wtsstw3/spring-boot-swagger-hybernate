@@ -1,0 +1,5 @@
+spring:
+  application:
+    version: 1
+    build:
+      timestamp: 1
